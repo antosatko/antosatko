@@ -11,7 +11,7 @@ Lately, I’ve been diving into **graphical programming**, focusing on its techn
 - **[Ruda](https://github.com/antosatko/Ruda)**  
   A general-purpose programming language designed for new programmers and game development from scratch (no engine). Ruda comes with a package manager and documentation generation tools to enhance the development experience.
 
-- **[DandaScript](https://github.com/antosatko/Dungoni)**  
+- **[DandaScript](https://github.com/antosatko/DandaScript)**  
   My first dive into parsing, DandaScript is a runtime library that executes scripts in JSON format. It supports plugins for custom syntax, enabling scripting capabilities for JSON files.
 
 ## **Games**
@@ -26,8 +26,8 @@ Lately, I’ve been diving into **graphical programming**, focusing on its techn
   A context-free, regex-less library for grammar declaration and parsing, built on concepts from my **Ruda** language. It provides an intuitive way to handle syntax and structure.
 
 ## **Graphical Interfaces**
-- **[Rugui](https://github.com/antosatko/rugui2)**  
-  A UI library that manages layout and event handling similar to browser engines. It is designed to be paired with rendering and environment integration libraries (windowing, etc.). Currently on my third rewrite, I’m focused on perfecting it.
+- **[Rugui](https://github.com/antosatko/rugui)**  
+  A UI library that manages layout and event handling similar to browser engines. It is designed to be paired with rendering and environment integration libraries (windowing, etc.). I'm currently reworking my design after hitting a limitation, focusing on an overhaul to enable more advanced features and improved performance. The progress is not public yet but will closely resemble [Rugui2](https://github.com/antosatko/rugui2) 
 
 - **[rugui_wgpu](https://github.com/antosatko/rugui2)**  
   A **wgpu** renderer designed for the **Rugui** library, providing GPU-accelerated rendering for UI elements in modern graphics environments.
