@@ -1,5 +1,5 @@
 # About Me  
-I want to create so many things but in the end its always jsut another compiler :/ Feel free to look at my stuff
+I want to create so many things but it always ends up being just another compiler :/ Feel free to look at my stuff
 
 # Projects
 
